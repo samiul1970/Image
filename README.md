@@ -20,8 +20,7 @@ Some text
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
-  
-  https://github.com/samiul1970/Image/blob/main/1288955846.mp4
+
 
   # image4
   
