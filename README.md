@@ -28,4 +28,20 @@ Some text
   <img width="460" height="300" src="https://github.com/samiul1970/Image/blob/main/mypng.png">
     </p>
   
+# Code block
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
 
+```python
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
+```python
+data = {'A': [1,2],
+        'B': [3,4]} 
+new = pd.DataFrame.from_dict(data)
+```
