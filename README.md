@@ -21,7 +21,7 @@ Some text
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
   
-  
+  https://github.com/samiul1970/Image/blob/main/1288955846.mp4
 
   # image4
   
@@ -29,3 +29,6 @@ Some text
   <img width="460" height="300" src="https://github.com/samiul1970/Image/blob/main/mypng.png">
     </p>
   
+<video width="320" height="240" controls>
+  <source src="https://github.com/samiul1970/Image/blob/main/1288955846.mp4" type="video/mp4">
+</video>
