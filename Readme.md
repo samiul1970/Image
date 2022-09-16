@@ -13,10 +13,9 @@
     <a href="https://reponame/issues/new?template=feature.md&labels=feature">Request feature</a>
   </p>
 </p>
-Adding image
-![imagename](image link)
 
-! [Earth] (https://github.com/samiul1970/Image/blob/main/download.jpg)
+
+![jackfruit] (https://github.com/samiul1970/Image/blob/main/download.jpg)
 
 ## Table of contents
 
