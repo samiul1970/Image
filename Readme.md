@@ -16,7 +16,7 @@
 Adding image
 ![imagename](image link)
 
-! [Earth] (https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3zweUZDG23qB9gID_-hRJgLL7j-DUJD6nx81iJE8p3A&s)
+! [Earth] (https://github.com/samiul1970/Image/blob/main/download.jpg)
 
 ## Table of contents
 
